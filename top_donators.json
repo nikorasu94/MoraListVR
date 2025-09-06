@@ -1,26 +1,26 @@
 [
     {
+        "name": "Cetson",
+        "total_amount": "****"
+    },
+    {
         "name": "METLA_81",
         "total_amount": "****"
     },
-	{
+    {
         "name": "_salaryman_",
         "total_amount": "****"
     },
     {
-        "name": "Cetson",
-        "total_amount": "****"
-    },
-	{
-        "name": "Max Dovg",
+        "name": "Andrey Prokofyev",
         "total_amount": "***"
     },
     {
-        "name": "Andrey Prokofyev",
-        "total_amount": "***"
-    }
-    {,
         "name": "GrandeBoar",
         "total_amount": "**"
+    },	
+    {
+        "name": "Max Dovg",
+        "total_amount": "***"
     }
 ]

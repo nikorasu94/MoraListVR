@@ -24,11 +24,19 @@
         "total_amount": "****"
     },
     {
+        "name": "Max Dovg",
+        "total_amount": "***"
+    },
+    {
+        "name": "Ini-F",
+        "total_amount": "***"
+    },
+	{
         "name": "GrandeBoar",
         "total_amount": "**"
     },
-    {
-        "name": "Max Dovg",
-        "total_amount": "***"
+		{
+        "name": "Антон Данилин",
+        "total_amount": "**"
     }
 ]

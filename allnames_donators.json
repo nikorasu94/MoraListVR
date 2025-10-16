@@ -1,106 +1,82 @@
 [
     {
-        "name": "Rock VR Club",
-        "total_amount": "******"
-    },
-    {
-        "name": "Veronski",
-        "total_amount": "******"
-    },
-    {
-        "name": "Ini-F",
-        "total_amount": "******"
-    },
-    {
-        "name": "bockbock_",
-        "total_amount": "******"
-    },
-    {
-        "name": "Max Dovg",
-        "total_amount": "*****"
-    },
-    {
         "name": "Cetson",
-        "total_amount": "*****"
+        "total_amount": 10000
     },
     {
         "name": "LeakyRUS",
-        "total_amount": "*****"
+        "total_amount": 10000
     },
     {
         "name": "Walha11er",
-        "total_amount": "****"
+        "total_amount": 9444
     },
     {
         "name": "METLA_81",
-        "total_amount": "****"
+        "total_amount": 7000
     },
     {
         "name": "_salaryman_",
-        "total_amount": "****"
-    },
-    {
-        "name": "Rekat 16",
-        "total_amount": "****"
-    },
-    {
-        "name": "Cache",
-        "total_amount": "****"
+        "total_amount": 6833
     },
     {
         "name": "ARKH4NG3L",
-        "total_amount": "****"
+        "total_amount": 4032
     },
     {
         "name": "Павел Охотников",
-        "total_amount": "****"
+        "total_amount": 2500
+    },
+    {
+        "name": "QuickComrade",
+        "total_amount": 2292
     },
     {
         "name": "bidclancy",
-        "total_amount": "****"
+        "total_amount": 2000
+    },
+    {
+        "name": "Cache",
+        "total_amount": 5000
+    },
+    {
+        "name": "Rekat 16",
+        "total_amount": 5000
     },
     {
         "name": "NagaSK",
-        "total_amount": "****"
+        "total_amount": 1000
     },
     {
-        "name": "KirillSkin",
-        "total_amount": "****"
+        "name": "Maykitsune ",
+        "total_amount": 1000
     },
     {
-        "name": "Maykitsune",
-        "total_amount": "****"
-    },
-    {
-        "name": "- siri -",
-        "total_amount": "****"
+        "name": "osiris",
+        "total_amount": 1000
     },
     {
         "name": "animira",
-        "total_amount": "****"
-    },
-    {
-        "name": "SydGoth",
-        "total_amount": "****"
+        "total_amount": 1000
     },
     {
         "name": "DanielSemenov",
-        "total_amount": "***"
+        "total_amount": 550
     },
     {
-        "name": "Ruru",
-        "total_amount": "***"
+        "name": "Qwerty",
+        "total_amount": 500
     },
     {
         "name": "Andrey Prokofyev",
-        "total_amount": "***"
+        "total_amount": 300
     },
     {
-        "name": "SmartASS1337",
-        "total_amount": "***"
+        "name": "Unstoppable Khorne Berzerker",
+        "total_amount": 300
     },
     {
         "name": "Дед Ортем",
-        "total_amount": "***"
+        "total_amount": 250
     }
 ]

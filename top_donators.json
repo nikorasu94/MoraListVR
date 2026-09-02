@@ -1,26 +1,30 @@
 [
     {
         "name": "_salaryman_",
-        "total_amount": "****"
+        "total_amount": "1"
     },
     {
         "name": "Danil_Semenov",
-        "total_amount": "****"
-    },
-	{
-        "name": "KirillSkin",
-        "total_amount": "****"
+        "total_amount": "2"
     },
     {
-        "name": "s8tn hey",
-        "total_amount": "***"
+        "name": "KirillSkin",
+        "total_amount": "3"
     },
     {
         "name": "Ini-F",
-        "total_amount": "***"
+        "total_amount": "4"
     },
     {
+        "name": "s8tn hey",
+        "total_amount": "5"
+    },
+    {
+        "name": "Sev_red",
+        "total_amount": "Игра"
+    }
+    {
         "name": "Rock VR Club",
-        "total_amount": "***"
+        "total_amount": "6"
     }
 ]
